@@ -1,0 +1,40 @@
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\bin\Debug\net6.0-windows\IOOP_Assignment.exe
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\bin\Debug\net6.0-windows\IOOP_Assignment.deps.json
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\bin\Debug\net6.0-windows\IOOP_Assignment.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\bin\Debug\net6.0-windows\IOOP_Assignment.dll
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\bin\Debug\net6.0-windows\IOOP_Assignment.pdb
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.frmAdmin.resources
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.frmReport.resources
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.frmIncome.resources
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.dll
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\refint\IOOP_Assignment.dll
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.pdb
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\ref\IOOP_Assignment.dll
+C:\Users\User\OneDrive\Desktop\C# learning\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.frmRegTechRecep.resources
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\bin\Debug\net6.0-windows\IOOP_Assignment.exe
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\bin\Debug\net6.0-windows\IOOP_Assignment.deps.json
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\bin\Debug\net6.0-windows\IOOP_Assignment.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\bin\Debug\net6.0-windows\IOOP_Assignment.dll
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\bin\Debug\net6.0-windows\IOOP_Assignment.pdb
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.frmAdmin.resources
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.frmRegTechRecep.resources
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.frmReport.resources
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.frmIncome.resources
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.dll
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\refint\IOOP_Assignment.dll
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.pdb
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\IOOP_Assignment.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Deg Y1(sem2)  Assignment\IOOP assignment\IOOP_Assignment\IOOP_Assignment\obj\Debug\net6.0-windows\ref\IOOP_Assignment.dll
